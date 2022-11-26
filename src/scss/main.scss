@@ -110,62 +110,109 @@
     height: 25%;
 }
 
-
 .avatarWrapper {
     display: none;
     height: 100vh;
     width: auto;
-    animation: image 3s linear;
-    animation-timing-function: linear;
-    animation-fill-mode: forwards;
-    background-repeat: no-repeat;
 
     @media only screen and (min-width: 1024px) {
         display: block;
     }
 }
-  
-@keyframes image {
-0% {
-    animation-timing-function: ease-in;
-    animation-duration: 0s;
+
+.avatarWrapper > img { 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: transparent;
+    opacity: 0;
+    z-index: 0;
+    -webkit-backface-visibility: hidden;
+    -webkit-animation: imageAnimation 30s linear 0s;
+    -moz-animation: imageAnimation 30s linear 0s;
+    -o-animation: imageAnimation 30s linear 0s;
+    -ms-animation: imageAnimation 30s linear 0s;
+    animation: imageAnimation 30s linear 0s; 
+}
+
+.avatarWrapper > img:nth-child(2)  { 
     background-image: url('../assets/me-start.png');
-}
-10% {
-    animation-timing-function: ease-in;
-    animation-duration: 0.5s;
-    background-image: url('../assets/me-with-bubble.png');
-}
-30% {
-    animation-timing-function: ease-in;
+    -webkit-animation-delay: 2s;
+    -moz-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    -ms-animation-delay: 2s;
+    animation-delay: 2s; 
     animation-duration: 2s;
-    background-image: url('../assets/me-start-talk.png');
 }
-40% {
-    animation-timing-function: ease-in;
-    animation-duration: 0.5s;
-    background-image: url('../assets/me-with-bubble.png');
-}
-50% {
-    animation-timing-function: ease-in;
-    animation-duration: 1s;
+
+.avatarWrapper > img:nth-child(3) { 
     background-image: url('../assets/me-welcome.png');
+    -webkit-animation-delay: 4s;
+    -moz-animation-delay: 4s;
+    -o-animation-delay: 4s;
+    -ms-animation-delay: 4s;
+    animation-delay: 4s;
+    animation-duration: 5s; 
 }
-60% {
-    animation-timing-function: ease-in;
-    animation-duration: 0.5s;
-    background-image: url('../assets/me-with-bubble.png');
-}
-90% {
-    animation-timing-function: ease-in;
-    animation-duration: 0s;
-    background-image: url('../assets/me-find-out-more.png');
-}
-100% {
-    animation-timing-function: ease-in;
-    animation-duration: 0s;
+
+.avatarWrapper > img:nth-child(4) { 
     background-image: url('../assets/me-with-arrow.png');
-    }
+    -webkit-animation-delay: 5s;
+    -moz-animation-delay: 5s;
+    -o-animation-delay: 5s;
+    -ms-animation-delay: 5s;
+    animation-delay: 5s;
+    animation-duration: 5s; 
+}
+
+@-webkit-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -webkit-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -webkit-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    18% { opacity: 1 }
+    100% { opacity: 0 }
+}
+
+@-moz-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -moz-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -moz-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    18% { opacity: 1 }
+    100% { opacity: 0 }
+}
+
+@-o-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -o-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -o-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    18% { opacity: 1 }
+    100% { opacity: 0 }
+}
+
+@-ms-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -ms-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -ms-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    18% { opacity: 1 }
+    100% { opacity: 0 }
+}
+
+@keyframes imageAnimation { 
+    0% { opacity: 0;
+    animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    18% { opacity: 1 }
+    100% { opacity: 0 }
 }
 
 .avatarWrapperMobile {

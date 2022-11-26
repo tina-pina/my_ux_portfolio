@@ -10,6 +10,10 @@
       </div>
     </div>
     <div v-if="showAnimation" class="avatarWrapper">
+      <img src="../assets/me-start.png" alt="png">
+      <img src="../assets/me-welcome.png" alt="png">
+      <img src="../assets/me-find-out-more.png" alt="png">
+      <img src="../assets/me-with-arrow.png" alt="png">
     </div>
     <div class="avatarWrapperMobile">
       <img src="../assets/aboutMyPortfolioMobile.png" class="col img-fluid" alt="about my portfolio">
