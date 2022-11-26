@@ -231,7 +231,6 @@
 
 .card {
     position: relative;
-    // max-width: 800px;
     margin: 0 auto; 
     padding: 0;
 
@@ -243,9 +242,6 @@
 .card-img-overlay {
     position: absolute;
     bottom: 0;
-    // display: flex;
-    // align-items: center;
-    // justify-content: center;
     background: rgb(0, 0, 0);/* Fallback color */
     color: #ffffff;
     width: 100%;

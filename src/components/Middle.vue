@@ -68,7 +68,7 @@
         <p class="lead"><strong>Avoiding  dark patterns, more transparency/honesty and more focus on key aspects are highest rated improvement suggestions</strong></p> 
       </div>
       <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-          <img src="../assets/surveyPieDiagram.png" class="img-fluid" alt="Example competitive benchmarking">
+          <img src="../assets/surveyPieDiagram.png" class="img-fluid" alt="survey pie diagram">
       </span>
     </div>
   </div>
@@ -97,11 +97,11 @@
   </div>
   <div class="usabilityTestDeptInterview row justify-content-center align-items-center">
     <span class="tt col-md-4 depthInterview depthInterview-Notes" data-bs-placement="bottom">
-          <img src="../assets/depthInterviewSnippetOne.png" class="img-fluid" alt="">
+          <img src="../assets/depthInterviewSnippetOne.png" class="img-fluid" alt="in depth interview snippet one">
           <p class="lead text-muted">Snippet of in Depth-Interview notes</p>
     </span>
     <span class="tt col-md-4 depthInterview depthInterview-Notes" data-bs-placement="bottom">
-          <img src="../assets/depthInterviewSnippetTwo.png" class="img-fluid" alt="">
+          <img src="../assets/depthInterviewSnippetTwo.png" class="img-fluid" alt="in depth interview snippet two">
           <p class="lead text-muted">Snippet of in Depth-Interview notes</p>
     </span>
   </div>
@@ -112,10 +112,10 @@
   </div>
   <div class="usabilityTestDeptInterview usabilityTestDeptInterview-Hotels row justify-content-center align-items-center">
     <span class="tt col-md-4 depthInterview" data-bs-placement="bottom">
-          <img src="../assets/ibis.png" class="img-fluid" alt="">
+          <img src="../assets/ibis.png" class="img-fluid" alt="ibis">
     </span>
     <span class="tt col-md-4 depthInterview" data-bs-placement="bottom">
-          <img src="../assets/9HotelCollection.png" class="img-fluid" alt="">
+          <img src="../assets/9HotelCollection.png" class="img-fluid" alt="9 hotel collection">
     </span>
   </div>
   <div class="usabilityTestDeptInterview row justify-content-center align-items-center">
@@ -140,11 +140,11 @@
   </div>
   <div class="row justify-content-center pt-4 align-items-center">
     <span class="tt col-md-4" data-bs-placement="bottom">
-          <img src="../assets/usabilityTestWithUser.png" class="img-fluid" alt="">
+          <img src="../assets/usabilityTestWithUser.png" class="img-fluid" alt="snippet usability test">
           <p class="lead text-muted">Snippet of the Usability Test</p>
     </span>
     <span class="tt col-md-4" data-bs-placement="bottom">
-        <img src="../assets/usabilityTestPeopleTalk.png" class="img-fluid" alt="">
+        <img src="../assets/usabilityTestPeopleTalk.png" class="img-fluid" alt="usability test two people with speechbubbles">
     </span>
   </div>
   <div class="row my-8 justify-content-center align-items-center">
@@ -191,7 +191,7 @@
       This last step took us several iterations and discussions. We wanted to make sure to give meaningful namings to the groups and find relations between them
     </div> 
     <div class="card affinityDiagram-Image-1 text-bg-dark col-md-8 mt-5">
-      <img src="../assets/AffinityDiagram1.jpg" class="card-img" alt="...">
+      <img src="../assets/AffinityDiagram1.jpg" class="card-img" alt="affinity diagram one">
       <div class="card-img-overlay display-5">
         <div class="card-img-overlay-text">
           <p class="lead col-md-8 fw-bold">
@@ -211,7 +211,7 @@
       </div>
     </div>
     <div class="card affinityDiagram-Image-1 text-bg-dark col-md-8 mt-5">
-      <img src="../assets/AffinityDiagram2.jpg" class="card-img" alt="...">
+      <img src="../assets/AffinityDiagram2.jpg" class="card-img" alt="affinity diagram two">
       <div class="card-img-overlay display-5">
         <div class="card-img-overlay-text">
           <p class="lead col-md-8 fw-bold">
@@ -224,7 +224,7 @@
       </div>
     </div>
     <div class="card affinityDiagram-Image-1 text-bg-dark col-md-8 mt-5">
-      <img src="../assets/AffinityDiagram3.jpg" class="card-img" alt="...">
+      <img src="../assets/AffinityDiagram3.jpg" class="card-img" alt="affinity diagram three">
       <div class="card-img-overlay display-5">
         <div class="card-img-overlay-text">
           <p class="lead col-md-8 fw-bold">
@@ -269,14 +269,14 @@
     </div>
     <div class="row justify-content-center align-items-center pt-5">
       <span class="tt col-md-4" data-bs-placement="bottom">
-        <img src="../assets/UserPersonas.png" class="img-fluid" alt="">
+        <img src="../assets/UserPersonas.png" class="img-fluid" alt="user personas">
       </span>
       <span class="tt col-md-2" data-bs-placement="bottom">
         <p class="lead text-muted">Before starting I created a simple persona to get a better understanding of the target audience</p>
       </span>
     </div>
     <div class="card customerJourneyMap text-bg-dark col-md-11 mt-5">
-      <img src="../assets/CustomerJourneyMap.png" class="card-img" alt="...">
+      <img src="../assets/CustomerJourneyMap.png" class="card-img" alt="customer journey map">
       <div class="card-img-overlay">
         <div class="col-md-8">
           <ul class="card-img-overlay-text">
@@ -323,13 +323,13 @@
   </div>
   <div class="row userFlowSketch justify-content-center align-items-center pt-5">
     <span class="tt col-md-6" data-bs-placement="bottom">
-      <img src="../assets/userFlowSketch.jpg" class="img-fluid" alt="">
+      <img src="../assets/userFlowSketch.jpg" class="img-fluid" alt="user flow sketch">
       <p class="lead text-muted">I began with sketching first, so I could always update the flow if needed</p>
     </span>
   </div>
   <div class="row userFlowFigma justify-content-center align-items-center pt-2">
     <div class="card affinityDiagram-Image-1 text-bg-dark col-md-6 mt-5">
-      <img src="../assets/userFlowFigma.png" class="card-img" alt="...">
+      <img src="../assets/userFlowFigma.png" class="card-img" alt="user flow figma">
       <div class="card-img-overlay display-5">
         <div class="card-img-overlay-text">
           <p class="col-md-6 fs-4">
@@ -370,7 +370,7 @@
   </div>
   <div class="row my-8 interactionDesignHotelPage pt-4 align-items-center justify-content-center">
     <div class="card col-md-6">
-      <img src="../assets/sketch-hotel-page.jpg" class="card-img-top" alt="...">
+      <img src="../assets/sketch-hotel-page.jpg" class="card-img-top" alt="sketch hotel page">
       <div class="card-body">
         <h5 class="card-title">Starting to sketch the hotel page</h5>
         <p class="card-text">The hotel screen  needed to show the key info to the user such as rating, facilities, breakfast and interactive elements such as buttons. At the same time I didn't want to reveal room (types) at this point to keep it simple for the user..</p>
@@ -379,7 +379,7 @@
   </div>
   <div class="row my-8 interactionDesignHotelPage pt-4 align-items-center justify-content-center">
     <div class="card col-md-6 mt-4">
-      <img src="../assets/sketch-hotel-page-improved.jpg" class="card-img-top" alt="...">
+      <img src="../assets/sketch-hotel-page-improved.jpg" class="card-img-top" alt="sketch hotel page">
       <div class="card-body">
         <h5 class="card-title">Sketch close to current version of hotel page</h5>
       </div>
@@ -447,9 +447,9 @@
   </div>
   <div class="row pt-4 justify-content-center align-items-center">
     <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <img src="../assets/updateHotelPage.png" class="img-fluid" alt="Example prototype testing">
+        <img src="../assets/updateHotelPage.png" class="img-fluid" alt="example updated hotel page design">
         <p class="lead text-muted">
-          After the prototype testing i updated the Hotel page to have a continue to rooms button and cancellation info on the bottom right side. Having the button on the bottom right made sense as it is the last section the eye moves and therefore the continue button should be placed there.
+          After the prototype testing i updated the Hotel page design to have a continue to rooms button and cancellation info on the bottom right side. Having the button on the bottom right made sense as it is the last section the eye moves and therefore the continue button should be placed there.
         </p> 
     </span>
   </div>
@@ -477,7 +477,7 @@
   </div>
   <div class="row pt-4 justify-content-center align-items-center">
     <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <img src="../assets/annotationsExample.png" class="img-fluid" alt="Example prototype testing">
+        <img src="../assets/annotationsExample.png" class="img-fluid" alt="example annotations">
         <p class="lead my-4">
           Adding annotations also helped me to fix small design details and interactions.
         </p> 
