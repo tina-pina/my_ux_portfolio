@@ -1,13 +1,54 @@
-// body {
-//     background: #C3FFFF;
-// }
-
 .offcanvas-backdrop {
     background-color: transparent;
 }
 
-main, .portfolio {
-    margin-top: 100px;
+.nav-link {
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.about-me {
+    @media only screen and (min-width: 1024px) {
+        padding-right: 30px;
+    }
+
+    .row {
+        padding-top: 150px !important;
+    }
+}
+
+.home {
+    position: relative;
+
+    a:after {
+        display: block;
+        width: 15px;
+        height: 15px;
+        content: url(../assets/house-solid.svg);
+        position: absolute;
+        top: 0;
+        right: auto;
+        left: 50px;
+        
+
+        @media only screen and (min-width: 1024px) {
+            right: 50px;
+            left: -20px;
+        }
+    }
+}
+
+.navbar-nav {
+    .router-link-active.router-link-exact-active {
+        color: black;
+    }
+}
+
+.portfolio, .container {
+    margin: 30px 0 !important;
+
+    @media only screen and (min-width: 1024px) {
+        margin: 0 !important;
+    }
 }
 
 .lead {
@@ -19,5 +60,284 @@ main, .portfolio {
 
     li {
         padding: 10px 0 10px 10px;
+        cursor: pointer;
+        width: 100%;
+
+        &:hover {
+            a {
+                color: white;
+            }
+        }
+
+        &.bg-success:hover {
+            background-color: #198754 !important;
+        }
+
+        &.bg-info:hover {
+            background-color: #0769F0 !important;
+        }
+
+        &.bg-danger:hover {
+            background-color: #dc3545 !important ;
+        }
+
+        &.bg-warning:hover {
+            background-color: #FF9226 !important;
+        }
+    }
+
+    a {
+        text-decoration: none;
+        display: block;
     }
 }
+
+.avatar_textWrapper {
+    display: none;
+    margin-top: 50px;
+
+    @media only screen and (min-width: 1024px) {
+        display: flex;
+    }
+}
+
+.avatar_hand {
+    text-align: center
+}
+
+.avatar_img {
+    width: auto;
+    height: 25%;
+}
+
+
+.avatarWrapper {
+    display: none;
+    height: 100vh;
+    width: auto;
+    animation: image 3s linear;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    background-repeat: no-repeat;
+
+    @media only screen and (min-width: 1024px) {
+        display: block;
+    }
+}
+  
+@keyframes image {
+0% {
+    animation-timing-function: ease-in;
+    animation-duration: 0s;
+    background-image: url('../assets/me-start.png');
+}
+10% {
+    animation-timing-function: ease-in;
+    animation-duration: 0.5s;
+    background-image: url('../assets/me-with-bubble.png');
+}
+30% {
+    animation-timing-function: ease-in;
+    animation-duration: 2s;
+    background-image: url('../assets/me-start-talk.png');
+}
+40% {
+    animation-timing-function: ease-in;
+    animation-duration: 0.5s;
+    background-image: url('../assets/me-with-bubble.png');
+}
+50% {
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    background-image: url('../assets/me-welcome.png');
+}
+60% {
+    animation-timing-function: ease-in;
+    animation-duration: 0.5s;
+    background-image: url('../assets/me-with-bubble.png');
+}
+90% {
+    animation-timing-function: ease-in;
+    animation-duration: 0s;
+    background-image: url('../assets/me-find-out-more.png');
+}
+100% {
+    animation-timing-function: ease-in;
+    animation-duration: 0s;
+    background-image: url('../assets/me-with-arrow.png');
+    }
+}
+
+.avatarWrapperMobile {
+    display: block;
+
+    @media only screen and (min-width: 1024px) {
+        display: none;
+    }
+}
+
+.sketchesInteractionDesign {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+        width: 80%
+    }
+}
+
+.usabilityTest {
+    text-align: center;
+
+    img {
+        width: 40%;
+        height: auto;
+    }
+
+    &Structure {
+        li {
+            list-style: circle;
+        }
+    }
+
+    &DeptInterview {
+        padding-top: 50px !important;
+
+        &-Hotels {
+            span {
+                text-align: center;
+            }
+            
+            .depthInterview {
+                text-align: center;
+            
+                img {
+                    width: 20%;
+                    height: auto;
+                }
+            }
+        }
+    }
+}
+
+.depthInterview-Notes {
+    text-align: center;
+
+    img {
+        width: 70%;
+        height: auto;
+    } 
+}
+
+.card {
+    position: relative;
+    // max-width: 800px;
+    margin: 0 auto; 
+    padding: 0;
+
+    img {
+        vertical-align: middle;
+    }
+}
+
+.card-img-overlay {
+    position: absolute;
+    bottom: 0;
+    // display: flex;
+    // align-items: center;
+    // justify-content: center;
+    background: rgb(0, 0, 0);/* Fallback color */
+    color: #ffffff;
+    width: 100%;
+    padding: 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+
+    @media only screen and (min-width: 1024px) {
+        background: rgba(0, 0, 0, 0.2);/* Black background with opacity */
+    }
+
+    &-text {
+        background: rgba(0, 0, 0, 0.6);/* Black background with opacity */ 
+        padding: 10px 20px;
+        font-weight: 200;
+        height: 100%;
+
+        @media only screen and (min-width: 1024px) {
+            height: auto;
+        }
+    }
+
+    .customerJourneyMap & {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+        .card-img-overlay-text {
+            padding: 30px
+        }
+
+        .miroButton {
+            border: 2px solid black;
+
+            a {
+                color: black;
+            }
+        }
+    }
+}
+
+.buttonStyle {
+    &, &:hover {
+        border: 1px solid black;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+}
+
+.lead.keyTakeaways {
+    margin-bottom: 0;
+}
+
+.userFlowSketch, .userFlowFigma {
+    .col-md-6 {
+        padding: 0;
+    }
+
+    .card-img-overlay-text {
+        padding: 20px;
+        height: 100%;
+    }
+
+    img {
+        border-radius: 0.375rem;
+    }
+}
+
+.thanks {
+    border-radius: 30px;
+    a {
+        color: black;
+    }
+}
+
+.arowBackTop {
+    position: relative;
+    color: black;
+    padding-bottom: 100px;
+
+    &:after {
+        display: block;
+        width: 15px;
+        height: 15px;
+        content: url(../assets/arrow-up-solid.svg);
+        position: absolute;
+        right: -30px;
+        top: 0;
+    }
+}
+
+
+
