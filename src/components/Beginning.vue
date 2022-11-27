@@ -1,15 +1,15 @@
 <template>
   <div id="portfolio-beginning" class="beginning row my-8 pt-5 justify-content-center align-items-center">
-        <div class="col-md-6 text-center text-md-start">
-            <h1>
-                <div class="display-6">Flexhotels is a hotel startup who is looking for a better online experience for their users on their website</div>
-            </h1>
-        </div>
-        <div class="col-md-2 d-none d-md-block">
-            <span class="tt" data-bs-placement="bottom">
-                <img src="../assets/FlexHotelsIcon.svg" class="img-fluid" alt="FlexHotelsIcon">
-            </span>
-        </div>
+      <div class="col-md-6 text-center text-md-start">
+        <h1>
+            <div class="display-6">Flexhotels is a hotel startup who is looking for a better online experience for their users on their website</div>
+        </h1>
+      </div>
+      <div class="col-md-2 d-none d-md-block">
+        <span class="tt" data-bs-placement="bottom">
+            <img src="../assets/FlexHotelsIcon.svg" class="img-fluid" alt="FlexHotelsIcon">
+        </span>
+      </div>
   </div>
   <div class="row my-8 pt-3 justify-content-center align-items-center">
     <p class="lead my-4 col-md-8 text-muted">This was my final case study from the UX Design Diploma</p>
@@ -35,10 +35,10 @@
       <div class="pb-4 fs-4 text fw-bold">       
         The goals of each step in the process 
       </div>
-      <p class="lead"><span class="fw-bold bg-success" style="--bs-bg-opacity: .4;">Research: </span> Identify the problem the user has</p> 
-      <p class="lead"><span class="fw-bold bg-info" style="--bs-bg-opacity: .5;">Analysis: </span> Understand and articulate the problem	</p> 
-      <p class="lead"><span class="fw-bold bg-danger" style="--bs-bg-opacity: .5;">Design: </span> Solve the problem</p> 
-      <p class="lead"><span class="fw-bold bg-warning" style="--bs-bg-opacity: .5;">Prototype: </span> Validate the design solution</p>
+      <p class="lead"><span class="fw-bold bg-success" style="--bs-bg-opacity: .4;">Research:</span> Identify the problem the user has</p> 
+      <p class="lead"><span class="fw-bold bg-info" style="--bs-bg-opacity: .5;">Analysis:</span> Understand and articulate the problem	</p> 
+      <p class="lead"><span class="fw-bold bg-danger" style="--bs-bg-opacity: .5;">Design:</span> Solve the problem</p> 
+      <p class="lead"><span class="fw-bold bg-warning" style="--bs-bg-opacity: .5;">Prototype:</span> Validate the design solution</p>
       <div class="pb-4 fs-4 text fw-bold">       
         The methods of each step in the process 
       </div>
@@ -60,7 +60,7 @@
         <li class="fw-bold bg-warning" style="--bs-bg-opacity: .5;"><a href="#design_specifications">9 Design Specifications</a></li>
       </ul>   
     </div>
-</div>
+  </div>
 </template>
 
 <script>

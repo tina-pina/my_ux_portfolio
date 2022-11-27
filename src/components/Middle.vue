@@ -11,9 +11,9 @@
       I compared 4 hotel booking websites by using their main features: Homepage, Search, Room Selection    
     </div> 
     <p class="row my-4 col-md-8 text-muted">
-      <span class="row my-2">Which best design practices are used?</span>
-      <span class="row my-2">What is standard and familiar?</span>
-      <span class="row my-2">What is useful and what can be improved?</span>
+      <span class="row my-2 fs-5">Which best design practices are used?</span>
+      <span class="row my-2 fs-5">What is standard and familiar?</span>
+      <span class="row my-2 fs-5">What is useful and what can be improved?</span>
     </p>
   </div>
   <div class="row pt-2 justify-content-center align-items-center">
@@ -24,7 +24,7 @@
   </div>
   <div class="row pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
-      <div class="keyfindings bg-info p-3 m-3" style="--bs-bg-opacity: .30;">
+      <div class="keyfindings bg-info p-3 mb-4" style="--bs-bg-opacity: .30;">
         <div class="fs-4 text fw-bold">       
           Key Findings 
         </div>
@@ -37,11 +37,6 @@
       <p class="lead">Starting the benchmarking for the first time i put too much focus on the appearance of the page instead of focusing on what makes the page (not) enjoyable as a user</p>   
     </div>
   </div>
-  <div class="row pt-2 justify-content-end align-items-center">
-    <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <a class="arowBackTop" href="#">Go back to top of the page</a>
-    </span>
-  </div>
   <div id="online_survey" class="row my-8 pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
         <h2 class="display-6">2. What general experience do users have when booking a hotel on a website? </h2>
@@ -52,11 +47,13 @@
       <p class="lead col-md-8 text-muted">51 Responses were collected</p>
     </div>
     <div class="row my-8 justify-content-center align-items-center">
-      <div class="lead col-md-7 bg-info p-3 text-start" style="--bs-bg-opacity: .30;">
-        <p><strong>More than 60%</strong> of users say the website met their needs</p>
-        <p><strong>27%</strong> say the website only “somewhat well” met their needs</p>
-        <p><strong>Only about 2%</strong> say “extremely well” and</p>
-        <p><strong>about 8%</strong> had a “not so well” or “not at all well” experience</p>
+      <div class="lead col-md-5 bg-info p-3 text-start" style="--bs-bg-opacity: .30;">
+        <div class="centerText">
+          <p><strong>More than 60%</strong> of users say the website met their needs</p>
+          <p><strong>27%</strong> say the website only “somewhat well” met their needs</p>
+          <p><strong>Only about 2%</strong> say “extremely well” and</p>
+          <p><strong>about 8%</strong> had a “not so well” or “not at all well” experience</p>
+        </div>
       </div>
     </div>
     <div class="row pt-4 justify-content-center align-items-center">
@@ -64,18 +61,15 @@
         <div class="fs-4 text fw-bold">       
           Key Findings 
         </div>
-        <p class="lead"><strong>Easy booking, clear price & condition, individual search and filter are rated as most liked in the hotel booking experience</strong></p> 
-        <p class="lead"><strong>Avoiding  dark patterns, more transparency/honesty and more focus on key aspects are highest rated improvement suggestions</strong></p> 
+        <div class="centerText">
+          <p class="lead"><strong>Easy booking, clear price & condition, individual search and filter are rated as most liked in the hotel booking experience</strong></p> 
+          <p class="lead"><strong>Avoiding  dark patterns, more transparency/honesty and more focus on key aspects are highest rated improvement suggestions</strong></p> 
+        </div>
       </div>
       <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
           <img src="../assets/surveyPieDiagram.png" class="img-fluid" alt="survey pie diagram">
       </span>
     </div>
-  </div>
-  <div class="row pt-2 justify-content-end align-items-center">
-    <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <a class="arowBackTop" href="#">Go back to top of the page</a>
-    </span>
   </div>
   <div id="usability_testing" class="row my-8 pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
@@ -148,7 +142,7 @@
     </span>
   </div>
   <div class="row my-8 justify-content-center align-items-center">
-    <span class="tt col-md-4 pt-4 usabilityTest" data-bs-placement="bottom">
+    <span class="tt col-md-3 pt-4 usabilityTest" data-bs-placement="bottom">
           <img src="../assets/usabilityTestAreas.png" class="img-fluid" alt="Example usability test areas">
     </span>
     <span class="tt col-md-5 pt-4 usabilityTestNotes" data-bs-placement="bottom">
@@ -169,11 +163,6 @@
         <p class="lead keyTakeaways"><strong>Observing the user means not only to listen but also to observe what he does. And give attention to the things he does not say or do.</strong></p> 
       </div>
   </div>
-  <div class="row pt-2 justify-content-end align-items-center">
-    <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <a class="arowBackTop" href="#">Go back to top of the page</a>
-    </span>
-  </div>
   <div id="affinity_diagram" class="row my-8 pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
         <h2 class="display-6">4. Taking all the data from the research phase and filtering and organizing it</h2>
@@ -184,12 +173,6 @@
     <p class="lead my-4 col-md-8 fw-bold">
       The Affinity Diagram is a good tool for organizing unstructured data gained from user research and puts emphasis on collaborating in a team
     </p>
-    <p class="lead my-4 col-md-8 fw-bold">
-      3. Improve grouping and create relationships between groups
-    </p>
-    <div class="col-md-8 fs-4">     
-      This last step took us several iterations and discussions. We wanted to make sure to give meaningful namings to the groups and find relations between them
-    </div> 
     <div class="card affinityDiagram-Image-1 text-bg-dark col-md-8 mt-5">
       <img src="../assets/AffinityDiagram1.jpg" class="card-img" alt="affinity diagram one">
       <div class="card-img-overlay display-5">
@@ -250,11 +233,6 @@
       </div>
     </div>
   </div>
-  <div class="row pt-2 justify-content-end align-items-center">
-    <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <a class="arowBackTop" href="#">Go back to top of the page</a>
-    </span>
-  </div>
   <div id="customer_journey_map" class="row my-8 pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
         <h2 class="display-6">5. Telling the user's journey through each step of the hotel booking</h2>
@@ -263,22 +241,24 @@
       This step is based on previous patterns in analyzing research data, especially the Affinity diagram.
     </div> 
     <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
-        <p class="lead keyTakeaways"><strong>The customer journey map helped me to focus even more on the important aspects of the users experience by visualizing his journey and focusing again on user goals, behaviors and context</strong></p> 
+      <div class="col-md-7 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
+        <div class="centerText">
+          <p class="lead keyTakeaways"><strong>The customer journey map helped me to focus even more on the important aspects of the users experience by visualizing his journey and focusing again on user goals, behaviors and context</strong></p> 
+        </div>
       </div>
     </div>
     <div class="row justify-content-center align-items-center pt-5">
-      <span class="tt col-md-4" data-bs-placement="bottom">
+      <span class="tt col-md-5" data-bs-placement="bottom">
         <img src="../assets/UserPersonas.png" class="img-fluid" alt="user personas">
       </span>
       <span class="tt col-md-2" data-bs-placement="bottom">
         <p class="lead text-muted">Before starting I created a simple persona to get a better understanding of the target audience</p>
       </span>
     </div>
-    <div class="card customerJourneyMap text-bg-dark col-md-11 mt-5">
+    <div class="card customerJourneyMap text-bg-dark col-md-8 mt-5">
       <img src="../assets/CustomerJourneyMap.png" class="card-img" alt="customer journey map">
       <div class="card-img-overlay">
-        <div class="col-md-8">
+        <div class="col px-4">
           <ul class="card-img-overlay-text">
             <li class="fs-5">     
               The start of the journey revealed that even though the Homepage looks not too overcrowded the user prefers to go immediately to the search functionality.
@@ -299,11 +279,6 @@
         </div>
       </div>
     </div>
-  </div>
-  <div class="row pt-2 justify-content-end align-items-center">
-    <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <a class="arowBackTop" href="#">Go back to top of the page</a>
-    </span>
   </div>
   <div id="flow_diagram" class="row my-8 pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
@@ -344,11 +319,6 @@
         </div>
       </div>
     </div>
-  </div>
-  <div class="row pt-2 justify-content-end align-items-center">
-    <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <a class="arowBackTop" href="#">Go back to top of the page</a>
-    </span>
   </div>
   <div id="interaction_design" class="row my-8 pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
@@ -407,11 +377,6 @@
         </ul> 
       </div>
   </div>
-  <div class="row pt-2 justify-content-end align-items-center">
-    <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <a class="arowBackTop" href="#">Go back to top of the page</a>
-    </span>
-  </div>
   <div id="prototype" class="row my-8 pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
         <h2 class="display-6">8. Almost at the finish line: Creating the Prototype in Figma</h2>
@@ -453,11 +418,6 @@
         </p> 
     </span>
   </div>
-  <div class="row pt-2 justify-content-end align-items-center">
-    <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <a class="arowBackTop" href="#">Go back to top of the page</a>
-    </span>
-  </div>
   <div id="design_specifications" class="row my-8 pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
         <h2 class="display-6">
@@ -486,15 +446,10 @@
   <div class="usabilityTestDeptInterview fs-4 row my-8 text fw-bold justify-content-center align-items-center">       
     Final Takeaways 
   </div>
-  <div class="row pt-4 pb-5 justify-content-center align-items-center">
+  <div class="row py-4 pb-5 justify-content-center align-items-center">
       <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
         <p class="lead keyTakeaways"><strong>In short: UX is a process, that means there is always room for improvements. After conducting some research a lot of data had been collected. This might seem intimidating in the beginning. But its important to trust the process and be open for (design) changes, to be able to develop a great product</strong></p> 
       </div>
-  </div>
-  <div class="row pt-2 justify-content-end align-items-center">
-    <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
-        <a class="arowBackTop" href="#">Go back to top of the page</a>
-    </span>
   </div>
 </template>
 
