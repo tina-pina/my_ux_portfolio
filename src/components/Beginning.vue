@@ -11,8 +11,12 @@
         </span>
       </div>
   </div>
-  <div class="row my-8 pt-3 justify-content-center align-items-center">
-    <p class="lead my-4 col-md-8 text-muted">This was my final case study from the UX Design Diploma</p>
+  <div class="row my-8 pt-2 justify-content-center align-items-center">
+    <p class="lead col-md-8 text-muted">This was my final case study from the UX Design Diploma.</p>
+    <p class="lead col-md-8 text-muted">
+      It took me about 6 months to study the theory behind UX design and practice it in real-life projects.</p>
+      <p class="lead col-md-8 text-muted">
+      UI was not covered in the course.</p>
     <div class="col-md-7 pb-3 fs-4 text fw-bold">       
       The goal is to design a website going through the full UX Design process starting from Research. 
     </div> 
@@ -21,7 +25,7 @@
   </div>
   <div class="row justify-content-center align-items-center">
     <div class="col-md-7 fs-4 text fw-bold">       
-      I’ve focused on the hotel booking process: How users search and select hotels online. 
+      I’ve focused on the hotel booking process: How users search and book hotels online. 
     </div> 
   </div>
   <div class="row pt-4 justify-content-center align-items-center">

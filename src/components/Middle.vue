@@ -6,7 +6,7 @@
     </div>
   </div>
   <div class="row my-8 justify-content-center align-items-center">
-    <p class="lead my-4 col-md-8 text-muted">How are other hotel related websites solving the problem?</p>
+    <p class="lead my-4 col-md-8 text-muted">To start understanding the problem I decided to take a look at other hotel websites</p>
     <div class="col-md-8 fs-4 text fw-bold">       
       I compared 4 hotel booking websites by using their main features: Homepage, Search, Room Selection    
     </div> 
@@ -23,18 +23,18 @@
     </span>
   </div>
   <div class="row pt-5 justify-content-center align-items-center">
+    <div class="fs-4 row my-8 mb-2 text fw-bold justify-content-center align-items-center">       
+        Key Takeaways 
+    </div>
     <div class="col-md-8 text-center text-md-start">
       <div class="keyfindings bg-info p-3 mb-4" style="--bs-bg-opacity: .30;">
-        <div class="fs-4 text fw-bold">       
-          Key Findings 
-        </div>
         <p class="lead">Avoid content overload and make experience “simple and clear” for the user.</p> 
-        <p class="lead">The whole booking process should be easy to navigate, like having buttons that are easy to understand</p> 
+        <p class="lead">The whole booking process should be easy to navigate, such as having buttons that are easy to understand</p> 
       </div>
       <div class="pb-2 fs-4 text fw-bold">       
         What can be improved
       </div>
-      <p class="lead">Starting the benchmarking for the first time i put too much focus on the appearance of the page instead of focusing on what makes the page (not) enjoyable as a user</p>   
+      <p class="lead">Starting the benchmarking for the first time I put too much focus on the appearance of the page instead of focusing on what makes the page (not) enjoyable as a user</p>   
     </div>
   </div>
   <div id="online_survey" class="row my-8 pt-5 justify-content-center align-items-center">
@@ -47,7 +47,7 @@
       <p class="lead col-md-8 text-muted">51 Responses were collected</p>
     </div>
     <div class="row my-8 justify-content-center align-items-center">
-      <div class="lead col-md-5 bg-info p-3 text-start" style="--bs-bg-opacity: .30;">
+      <div class="lead col-md-5 bg-success p-3 text-start" style="--bs-bg-opacity: .20;">
         <div class="centerText">
           <p><strong>More than 60%</strong> of users say the website met their needs</p>
           <p><strong>27%</strong> say the website only “somewhat well” met their needs</p>
@@ -57,10 +57,10 @@
       </div>
     </div>
     <div class="row pt-4 justify-content-center align-items-center">
+      <div class="fs-4 row my-8 mb-2 text fw-bold justify-content-center align-items-center">       
+        Key Takeaways 
+      </div>
       <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
-        <div class="fs-4 text fw-bold">       
-          Key Findings 
-        </div>
         <div class="centerText">
           <p class="lead"><strong>Easy booking, clear price & condition, individual search and filter are rated as most liked in the hotel booking experience</strong></p> 
           <p class="lead"><strong>Avoiding  dark patterns, more transparency/honesty and more focus on key aspects are highest rated improvement suggestions</strong></p> 
@@ -77,7 +77,7 @@
     </div>
   </div>
   <div class="row my-8 justify-content-center align-items-center">
-    <p class="lead my-4 col-md-8 text-muted">Usability Testing is a very powerful tool, as it produces a variety of data coming from a user's perspective.</p>
+    <p class="lead my-4 col-md-8 text-muted">To gain deeper insights about Users hotel booking experience I conducted my first Usability Testing:</p>
   </div>
   <ul class="usabilityTestStructure row pt-4 justify-content-center align-items-center">
     <li class="lead col-md-8 fw-bold">The usability test was divided into a Depth-Interview (15-25 min.) and an Usablity test (~30 min.)</li>
@@ -150,16 +150,13 @@
           <p class="lead text-muted">Snippet of usability test notes: users, their goals, context and behavior</p>
     </span>
   </div>
-  <div class="usabilityTestDeptInterview fs-4 row my-8 text fw-bold justify-content-center align-items-center">       
-    Key Takeaways 
-  </div>
   <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
+      <div class="col-md-8 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
         <p class="lead keyTakeaways"><strong>As the moderator I had to be careful to not share my opinion with the user but at the same time I needed to bring the user back to the task if necessary. </strong></p> 
       </div>
   </div>
   <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
+      <div class="col-md-8 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
         <p class="lead keyTakeaways"><strong>Observing the user means not only to listen but also to observe what he does. And give attention to the things he does not say or do.</strong></p> 
       </div>
   </div>
@@ -171,7 +168,7 @@
   </div>
   <div class="row my-8 justify-content-center align-items-center">
     <p class="lead my-4 col-md-8 fw-bold">
-      The Affinity Diagram is a good tool for organizing unstructured data gained from user research and puts emphasis on collaborating in a team
+      The Affinity Diagram helped me organizing my unstructured data that I had gained from user research. Also it hightlights the importance of working in a team, to organize large amounts of data.
     </p>
     <div class="card affinityDiagram-Image-1 text-bg-dark col-md-8 mt-5">
       <img src="../assets/AffinityDiagram1.jpg" class="card-img" alt="affinity diagram one">
@@ -180,11 +177,11 @@
           <p class="lead col-md-8 fw-bold">
           1. Review and structure the data
           </p>
-          <div class="col-md-8 fs-4">     
-          With the help of one helper we took a look at the notes i had taken
-          from competitive benchmark, online survey, usability tests and in-depth interviews. We also took notes watching the usability test recordings.
+          <div class="col-md-8 fs-4">
+            To organize the research data I had collected, I asked a friend to help me taking a look at the notes I had taken
+          from competitive benchmark, online survey, usability tests and in-depth interviews. We also took notes watching the usability test recordings again.
           </div> 
-          <span class="col-md-8 fs-4 pt-4">We used a different color for each note taking depending on</span>
+          <span class="col-md-8 fs-4 pt-4">For better understanding and structure we used a different color for each note depending on</span>
           <p class="row my-4 col-md-8">
             <span class="col-md-8 fs-4"> - type of research</span>
             <span class="col-md-8 fs-4"> - hotel name</span>
@@ -201,7 +198,7 @@
             2. Organize the notes into groups
           </p>
           <div class="col-md-8 fs-4">     
-            This started to get quite complex as we had a lot of data from all the research.
+            This started to get quite complex as we had a lot of data from all the research. Grouping everthing together helped us seeing the bigger picture and reducing complexity.
           </div> 
         </div>
       </div>
@@ -223,12 +220,12 @@
       <button type="button" class="btn btn-light buttonStyle col-md-2"><a href="https://miro.com/app/board/uXjVO7XkEBE=/" target="_blank">View in miro</a></button>
     </div>
     <div class="row pt-5 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
+      <div class="col-md-8 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
         <p class="lead keyTakeaways"><strong>Some things could be improved, such as dividing some of the groups into more specific subgroups and finding more relations between them.</strong></p> 
       </div>
     </div>
     <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
+      <div class="col-md-8 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
         <p class="lead keyTakeaways"><strong>This step allowed me to see key aspects of the user's hotel booking experience. It helped me to identify problems the user has in one specific context and their impact on the user's flows through the website.</strong></p> 
       </div>
     </div>
@@ -241,9 +238,9 @@
       This step is based on previous patterns in analyzing research data, especially the Affinity diagram.
     </div> 
     <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-7 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
+      <div class="col-md-7 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
         <div class="centerText">
-          <p class="lead keyTakeaways"><strong>The customer journey map helped me to focus even more on the important aspects of the users experience by visualizing his journey and focusing again on user goals, behaviors and context</strong></p> 
+          <p class="lead keyTakeaways"><strong>The customer journey map helped me to focus even more on the important aspects of the users experience by visualizing his journey and focusing again on user goals, behaviors and context.</strong></p> 
         </div>
       </div>
     </div>
@@ -283,17 +280,7 @@
   <div id="flow_diagram" class="row my-8 pt-5 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
         <h2 class="display-6">6. Flow diagram</h2>
-        <h4>The users flow and individual steps taken from entering the homepage until the booking confirmation of the hotel stay</h4>
-    </div>
-  </div>
-  <div class="row my-8 justify-content-center align-items-center">
-    <p class="lead my-4 col-md-8 fw-bold">
-      It’s best practice to start with the most common flow a user might have. Once he starts entering the webpage until he finished his task. This helps to start the design process with the key aspects in mind.
-    </p>
-    <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
-        <p class="lead keyTakeaways"><strong>UX Design is an iteration, so it can always be improved at a later point.</strong></p> 
-      </div>
+        <h4>In preparation for the design phase I started sketching the users flow and individual steps taken from entering the homepage until the booking confirmation of the hotel stay.</h4>
     </div>
   </div>
   <div class="row userFlowSketch justify-content-center align-items-center pt-5">
@@ -308,7 +295,7 @@
       <div class="card-img-overlay display-5">
         <div class="card-img-overlay-text">
           <p class="col-md-6 fs-4">
-            After that i started mapping out the flow digitally with Figma.
+            After that I started mapping out the flow digitally with Figma.
           </p>
           <div class="col fs-4">     
             I figured from my usability testing sessions, that there are many possible paths a user could take to complete a process. And it's crucial in the beginning to stay focused on the key aspects of the journey the “perfect happy path”.
@@ -317,6 +304,15 @@
             <button type="button" class="btn btn-light buttonStyle fs-4"><a href="https://www.figma.com/file/sXCYYSn7J6aIanM6ixt13h/user-flow-hotel-booking-desktop-koenig?node-id=5133%3A319&t=IRdjK3SX3nnrcuTg-0" target="_blank">View in figma</a></button>
           </div>
         </div>
+      </div>
+    </div>
+    <div class="fs-4 row my-8 mt-4 mb-2 text fw-bold justify-content-center align-items-center">       
+      Key Takeaways 
+    </div>
+    <div class="row pt-4 justify-content-center align-items-center">
+      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
+        <p class="lead keyTakeaways"><strong>UX Design is an iteration, so it can always be improved at a later point.</strong></p> 
+        <p class="lead  keyTakeaways my-4 col-md-8">It’s best practice to start with the most common flow a user might have. Once he starts entering the webpage until he finished his task. This helps to start the design process with the key aspects in mind.</p>
       </div>
     </div>
   </div>
@@ -334,7 +330,7 @@
           I’ve worked on sketching the different screens until I realized I could reuse some elements in another screen again by just using the cut out part inside another screen (for example the map).
         </p>
         <p class="lead my-4 fw-bold">
-          The areas I had identified in my research that  needed  the most consideration were Hotelpage and Room page. The biggest challenge was to improve the users flow and reduce complexity.
+          The areas I had identified in my research that  needed  the most consideration were the Hotelpage and Room page. The biggest challenge was to improve the users flow and reduce complexity.
         </p>
     </div>
   </div>
@@ -355,11 +351,8 @@
       </div>
     </div>
   </div>
-  <div class="usabilityTestDeptInterview fs-4 row my-8 text fw-bold justify-content-center align-items-center">       
-    Key Takeaways 
-  </div>
   <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
+      <div class="col-md-8 mt-4 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
         <ul class="keyTakeaways fs-5">
           <li>
             I conveyed everything into sketches I had learned so far in my research.
@@ -369,7 +362,7 @@
           </li>
           <li class="pt-2">
             I also got inspired by other hotel websites and adapted it for my own needs. For example I wanted to show the search as main part of the homepage like ibis.com. 
-            At the same time i wanted to show less content on the page and keep the search as straightforward as possible
+            At the same time I wanted to show less content on the page and keep the search as straightforward as possible.
           </li>
           <li class="pt-2">
             I organized the content and the navigation in the sense that it seemed “natural” for the user. The interactive elements needed to be easy to understand and approachable by the user. 
@@ -398,7 +391,7 @@
   <div class="row my-8 pt-2 justify-content-center align-items-center">
     <div class="col-md-8 text-center text-md-start">
         <p class="lead my-4">
-          I finished the first iteration of the prototype and tested it again. One main problem for the user was that it was not obvious on the Hotel Page how to continue the booking process: “But i can’t continue here right?”.        </p>
+          I finished the first iteration of the prototype and tested it again. One main problem for the user was that it was not obvious on the Hotel Page how to continue the booking process: “But I can’t continue here right?”.        </p>
         <p class="lead my-4">
           Also the user was missing the free cancellation info at this point, which I also included in the next design iteration.
         </p>
@@ -414,7 +407,7 @@
     <span class="tt col-md-7 pt-4" data-bs-placement="bottom">
         <img src="../assets/updateHotelPage.png" class="img-fluid" alt="example updated hotel page design">
         <p class="lead text-muted">
-          After the prototype testing i updated the Hotel page design to have a continue to rooms button and cancellation info on the bottom right side. Having the button on the bottom right made sense as it is the last section the eye moves and therefore the continue button should be placed there.
+          After the prototype testing I updated the Hotel page design to have a continue to rooms button and cancellation info on the bottom right side. Having the button on the bottom right made sense as it is the last section the eye moves and therefore the continue button should be placed there.
         </p> 
     </span>
   </div>
