@@ -18,9 +18,9 @@
       <p class="lead col-md-8 text-muted">
       UI was not covered in the course.</p>
     <div class="col-md-7 pb-3 fs-4 text fw-bold">       
-      The goal is to design a website going through the full UX Design process starting from Research. 
+      The goal was to design a website going through the full UX Design process starting from Research. 
     </div> 
-    <p class="lead col-md-8 text-muted">The end product needs to be fast, easy and intuitive: one that’s based on a deep understanding of the users..</p>
+    <p class="lead col-md-8 text-muted">The end product needed to be fast, easy and intuitive: one that’s based on a deep understanding of the users..</p>
     <p class="lead col-md-8 text-muted">I’ve chosen a hotel website for my case study, because the industry has many examples of dissatisfactory design and therefore is in need of UX. </p>
   </div>
   <div class="row justify-content-center align-items-center">
