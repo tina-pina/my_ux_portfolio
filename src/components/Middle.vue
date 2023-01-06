@@ -27,7 +27,7 @@
         Key Takeaways 
     </div>
     <div class="col-md-8 text-center text-md-start">
-      <div class="keyfindings bg-info p-3 mb-4" style="--bs-bg-opacity: .30;">
+      <div class="keyfindings keytakeaways p-3 mb-4">
         <p class="lead">Avoid content overload and make experience “simple and clear” for the user.</p> 
         <p class="lead">The whole booking process should be easy to navigate, such as having buttons that are easy to understand</p> 
       </div>
@@ -47,7 +47,7 @@
       <p class="lead col-md-8 text-muted">51 Responses were collected</p>
     </div>
     <div class="row my-8 justify-content-center align-items-center">
-      <div class="lead col-md-5 bg-success p-3 text-start" style="--bs-bg-opacity: .20;">
+      <div class="lead col-md-5 reflection p-3 text-start">
         <div class="centerText">
           <p><strong>More than 60%</strong> of users say the website met their needs</p>
           <p><strong>27%</strong> say the website only “somewhat well” met their needs</p>
@@ -60,7 +60,7 @@
       <div class="fs-4 row my-8 mb-2 text fw-bold justify-content-center align-items-center">       
         Key Takeaways 
       </div>
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
+      <div class="col-md-8 keytakeaways text-center text-md-start p-3">
         <div class="centerText">
           <p class="lead"><strong>Easy booking, clear price & condition, individual search and filter are rated as most liked in the hotel booking experience</strong></p> 
           <p class="lead"><strong>Avoiding  dark patterns, more transparency/honesty and more focus on key aspects are highest rated improvement suggestions</strong></p> 
@@ -151,13 +151,16 @@
     </span>
   </div>
   <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
-        <p class="lead keyTakeaways"><strong>As the moderator I had to be careful to not share my opinion with the user but at the same time I needed to bring the user back to the task if necessary. </strong></p> 
+      <div class="fs-4 row my-8 mt-4 mb-2 text fw-bold justify-content-center align-items-center">       
+        Key Takeaways 
+      </div>
+      <div class="col-md-8 text-center text-md-start keytakeaways p-3">
+        <p class="lead mb-0"><strong>As the moderator I had to be careful to not share my opinion with the user but at the same time I needed to bring the user back to the task if necessary. </strong></p> 
       </div>
   </div>
   <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
-        <p class="lead keyTakeaways"><strong>Observing the user means not only to listen but also to observe what he does. And give attention to the things he does not say or do.</strong></p> 
+      <div class="col-md-8 text-center text-md-start keytakeaways p-3">
+        <p class="lead mb-0"><strong>Observing the user means not only to listen but also to observe what he does. And give attention to the things he does not say or do.</strong></p> 
       </div>
   </div>
   <div id="affinity_diagram" class="row my-8 pt-5 justify-content-center align-items-center">
@@ -220,13 +223,16 @@
       <button type="button" class="btn btn-light buttonStyle col-md-2"><a href="https://miro.com/app/board/uXjVO7XkEBE=/" target="_blank">View in miro</a></button>
     </div>
     <div class="row pt-5 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
-        <p class="lead keyTakeaways"><strong>Some things could be improved, such as dividing some of the groups into more specific subgroups and finding more relations between them.</strong></p> 
+      <div class="col-md-8 text-center text-md-start reflection p-3">
+        <p class="lead mb-0"><strong>Some things could be improved, such as dividing some of the groups into more specific subgroups and finding more relations between them.</strong></p> 
       </div>
     </div>
     <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
-        <p class="lead keyTakeaways"><strong>This step allowed me to see key aspects of the user's hotel booking experience. It helped me to identify problems the user has in one specific context and their impact on the user's flows through the website.</strong></p> 
+      <div class="fs-4 row my-8 mt-4 mb-2 text fw-bold justify-content-center align-items-center">       
+        Key Takeaways 
+      </div>
+      <div class="col-md-8 text-center text-md-start keytakeaways p-3">
+        <p class="lead mb-0"><strong>This step allowed me to see key aspects of the user's hotel booking experience. It helped me to identify problems the user has in one specific context and their impact on the user's flows through the website.</strong></p> 
       </div>
     </div>
   </div>
@@ -238,7 +244,10 @@
       This step is based on previous patterns in analyzing research data, especially the Affinity diagram.
     </div> 
     <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-7 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
+      <div class="fs-4 row my-8 mt-4 mb-2 text fw-bold justify-content-center align-items-center">       
+        Key Takeaways 
+      </div>
+      <div class="col-md-8 text-center text-md-start keytakeaways p-3">
         <div class="centerText">
           <p class="lead keyTakeaways"><strong>The customer journey map helped me to focus even more on the important aspects of the users experience by visualizing his journey and focusing again on user goals, behaviors and context.</strong></p> 
         </div>
@@ -310,9 +319,9 @@
       Key Takeaways 
     </div>
     <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
-        <p class="lead keyTakeaways"><strong>UX Design is an iteration, so it can always be improved at a later point.</strong></p> 
-        <p class="lead  keyTakeaways my-4 col-md-8">It’s best practice to start with the most common flow a user might have. Once he starts entering the webpage until he finished his task. This helps to start the design process with the key aspects in mind.</p>
+      <div class="col-md-8 text-center text-md-start keytakeaways p-3">
+        <p class="lead mb-0"><strong>UX Design is an iteration, so it can always be improved at a later point.</strong></p> 
+        <p class="lead my-4 col-md-8 mb-0">It’s best practice to start with the most common flow a user might have. Once he starts entering the webpage until he finished his task. This helps to start the design process with the key aspects in mind.</p>
       </div>
     </div>
   </div>
@@ -352,9 +361,9 @@
     </div>
   </div>
   <div class="row pt-4 justify-content-center align-items-center">
-      <div class="col-md-8 mt-4 text-center text-md-start bg-success p-3" style="--bs-bg-opacity: .20;">
-        <ul class="keyTakeaways fs-5">
-          <li>
+      <div class="col-md-8 mt-4 text-center text-md-start reflection">
+        <ul class="fs-5">
+          <li class="pt-2">
             I conveyed everything into sketches I had learned so far in my research.
           </li>
           <li class="pt-2">
@@ -389,10 +398,13 @@
     </div>
   </div>
   <div class="row my-8 pt-2 justify-content-center align-items-center">
+    <div class="fs-4 row my-8 mb-2 mt-5 text fw-bold justify-content-center align-items-center">       
+        Key Takeaways 
+    </div>
     <div class="col-md-8 text-center text-md-start">
-        <p class="lead my-4">
+        <p class="lead keytakeaways my-4 p-3">
           I finished the first iteration of the prototype and tested it again. One main problem for the user was that it was not obvious on the Hotel Page how to continue the booking process: “But I can’t continue here right?”.        </p>
-        <p class="lead my-4">
+        <p class="lead my-4 keytakeaways p-3">
           Also the user was missing the free cancellation info at this point, which I also included in the next design iteration.
         </p>
     </div>
@@ -440,8 +452,8 @@
     Final Takeaways 
   </div>
   <div class="row py-4 pb-5 justify-content-center align-items-center">
-      <div class="col-md-8 text-center text-md-start bg-info p-3" style="--bs-bg-opacity: .30;">
-        <p class="lead keyTakeaways"><strong>In short: UX is a process, that means there is always room for improvements. After conducting some research a lot of data had been collected. This might seem intimidating in the beginning. But its important to trust the process and be open for (design) changes, to be able to develop a great product</strong></p> 
+      <div class="col-md-8 text-center text-md-start keytakeaways p-3">
+        <p class="lead mb-0"><strong>In short: UX is a process, that means there is always room for improvements. After conducting some research a lot of data had been collected. This might seem intimidating in the beginning. But its important to trust the process and be open for (design) changes, to be able to develop a great product</strong></p> 
       </div>
   </div>
 </template>

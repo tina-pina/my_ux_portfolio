@@ -41,7 +41,7 @@
       </div>
       <p class="lead"><span class="fw-bold bg-success" style="--bs-bg-opacity: .4;">Research:</span> Identify the problem the user has</p> 
       <p class="lead"><span class="fw-bold bg-info" style="--bs-bg-opacity: .5;">Analysis:</span> Understand and articulate the problem	</p> 
-      <p class="lead"><span class="fw-bold bg-danger" style="--bs-bg-opacity: .5;">Design:</span> Solve the problem</p> 
+      <p class="lead"><span class="fw-bold bg-danger" style="--bs-bg-opacity: .3;">Design:</span> Solve the problem</p> 
       <p class="lead"><span class="fw-bold bg-warning" style="--bs-bg-opacity: .5;">Prototype:</span> Validate the design solution</p>
       <div class="pb-4 fs-4 text fw-bold">       
         The methods of each step in the process 
@@ -56,13 +56,20 @@
         <li class="fw-bold bg-info" style="--bs-bg-opacity: .5;"><a href="#customer_journey_map">5 Customer Journey Map</a></li>
       </ul>
       <ul class="lead methods">
-        <li class="fw-bold bg-danger" style="--bs-bg-opacity: .5;"><a href="#flow_diagram">6 Flow Diagram</a></li>
-        <li class="fw-bold bg-danger" style="--bs-bg-opacity: .5;"><a href="#interaction_design">7 Interaction Design</a></li>
+        <li class="fw-bold bg-danger" style="--bs-bg-opacity: .3;"><a href="#flow_diagram">6 Flow Diagram</a></li>
+        <li class="fw-bold bg-danger" style="--bs-bg-opacity: .3;"><a href="#interaction_design">7 Interaction Design</a></li>
       </ul> 
       <ul class="lead methods">
         <li class="fw-bold bg-warning" style="--bs-bg-opacity: .5;"><a href="#prototype">8 Prototype</a></li>
         <li class="fw-bold bg-warning" style="--bs-bg-opacity: .5;"><a href="#design_specifications">9 Design Specifications</a></li>
-      </ul>   
+      </ul>
+      <div class="pb-4 fs-4 text fw-bold">       
+        Color Legend
+      </div>
+      <div class="legend-container d-flex flex-column col-md-2">
+        <p class="fw-bold legend keytakeaways mb-4 d-flex justify-content-center"><span>Key Takeaways</span></p>
+        <p class="fw-bold legend reflection d-flex justify-content-center"><span>Reflection</span></p>  
+      </div> 
     </div>
   </div>
 </template>

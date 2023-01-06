@@ -105,6 +105,19 @@
     }
 }
 
+.fw-bold.legend {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.keytakeaways {
+    background-color: #F78D93;
+}
+
+.reflection {
+    background-color: #2FF5D0;
+}
+
 .avatar {
     &_textWrapper {
         display: none;
@@ -356,10 +369,6 @@
     a {
         text-decoration: none;
     }
-}
-
-.lead.keyTakeaways {
-    margin-bottom: 0;
 }
 
 .userFlowSketch, .userFlowFigma {
